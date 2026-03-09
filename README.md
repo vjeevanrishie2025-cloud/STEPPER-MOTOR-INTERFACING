@@ -70,9 +70,11 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
-<img width="346" height="524" alt="Screenshot 2026-02-24 081924" src="https://github.com/user-attachments/assets/49b9ba41-5697-4540-afd7-86566388996c" />
-<img width="357" height="507" alt="Screenshot 2026-02-24 081935" src="https://github.com/user-attachments/assets/aa9f98af-ce95-4cf0-99ba-c2913d1b791a" />
 
-## RESULT
+![WhatsApp Image 2026-03-09 at 10 47 33 AM (1)](https://github.com/user-attachments/assets/3d744bdc-4d45-46d2-9e9e-62ea2a566dd5)
+
+![WhatsApp Image 2026-03-09 at 10 47 33 AM](https://github.com/user-attachments/assets/d1c1f070-5cde-4220-9f04-1ef94df15571)
+
+
 
 Thus, the assembly language program for rotating the stepper motor in both clockwise and anticlockwise directions was written and verified.
