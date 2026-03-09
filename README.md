@@ -63,7 +63,7 @@ L1:      DEC DX
          INC DI               ; Go to next memory location
          LOOP DOWN1           ; Repeat until all data is sent
 
-         JMP START            ; Continuous rotation
+         JMP START           ; Continuous rotation
 
          HLT                  ; Stop
 
@@ -71,10 +71,10 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 
-![WhatsApp Image 2026-03-09 at 10 47 33 AM (1)](https://github.com/user-attachments/assets/3d744bdc-4d45-46d2-9e9e-62ea2a566dd5)
+![WhatsApp Image 2026-02-10 at 9 32 01 AM](https://github.com/user-attachments/assets/5751a945-b560-46d4-9231-e596e7df10f9)
+![WhatsApp Image 2026-02-10 at 9 32 02 AM](https://github.com/user-attachments/assets/de7259b9-c449-479d-9cd0-ae160099e65e)
 
-![WhatsApp Image 2026-03-09 at 10 47 33 AM](https://github.com/user-attachments/assets/d1c1f070-5cde-4220-9f04-1ef94df15571)
 
-
+## RESULT
 
 Thus, the assembly language program for rotating the stepper motor in both clockwise and anticlockwise directions was written and verified.
