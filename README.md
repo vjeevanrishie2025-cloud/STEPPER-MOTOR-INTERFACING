@@ -3,7 +3,7 @@
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
 
----
+--- 
 
 ## APPARATUS REQUIRED
 
